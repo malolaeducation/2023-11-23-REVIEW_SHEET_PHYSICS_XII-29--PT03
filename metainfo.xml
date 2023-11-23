@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="D601E88B-A0B2-4511-8843-D94DB9DA03F7" version="0">
+	<info>
+		<title>2023-11-23-REVIEW_SHEET_PHYSICS_XII-29--PT03</title>
+		<description/>
+	</info>
+	<files index="id25" thumbnail="id21" totalSize="2525239">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/images/img-2710bc7ff12263f3a1df7273bc4ac34dae5530ab.png</file>
+		<file id="id9">data/images/img-2924cccc4ecec16bd69811ec464a5da865a39aa8.png</file>
+		<file id="id10">data/images/img-2977055893fee230ab8f333afbe6379a43083827.png</file>
+		<file id="id11">data/images/img-5f3c0d2836173a77ed08cac63e80f014607dd86f.png</file>
+		<file id="id12">data/images/img-6dbf1874eb05ceffc164b0ca7561d2c378580c11.png</file>
+		<file id="id13">data/images/img-8c174579d18d7fa88a60dedb501a9b3a118e62a1.png</file>
+		<file id="id14">data/images/img-94499059da5c289959422a16fe559f4abc20550e.jpg</file>
+		<file id="id15">data/images/img-a5e563c71bdd1007aa85e90ec606726c52e53e17.png</file>
+		<file id="id16">data/images/img-b3c965c7808a180d0ba0c5c4993b1c38d2930055.png</file>
+		<file id="id17">data/images/img-d66570a1d5175b7225f2aeb555e5b076368525ae.png</file>
+		<file id="id18">data/images/img-e8143af3bdc6bcb0d087a6cc60c028b291ed7c23.png</file>
+		<file id="id19">data/ismplayer/app_store2x.png</file>
+		<file id="id20">data/ismplayer/play.svg</file>
+		<file id="id21">data/ismplayer/preview.png</file>
+		<file id="id22">data/ismplayer/style.css</file>
+		<file id="id23">data/ismplayer/style_mini.css</file>
+		<file id="id24">data/player.js</file>
+		<file id="id25">index.html</file>
+		<file id="id26">ismplayer.html</file>
+		<file id="id27">preview.png</file>
+	</files>
+</presentation>
+
